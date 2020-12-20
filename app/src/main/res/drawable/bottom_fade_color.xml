@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@drawable/botrfade1"
+        android:duration="125" />
+
+    <item
+        android:drawable="@drawable/botfade2"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/botfade3"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/botfade4"
+        android:duration="125" />
+
+    <item
+        android:drawable="@drawable/botfade5"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/botfade6"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/botfade7"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/botfade8"
+        android:duration="125" />
+
+</animation-list>

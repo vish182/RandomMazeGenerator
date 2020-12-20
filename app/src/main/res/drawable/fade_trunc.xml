@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@drawable/trunc1"
+        android:duration="125" />
+
+    <item
+        android:drawable="@drawable/trunc2"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/trunc3"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/trunc4"
+        android:duration="125" />
+
+    <item
+        android:drawable="@drawable/trunc5"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/trunc6"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/trunc7"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/trunc8"
+        android:duration="125" />
+
+</animation-list>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@drawable/rfade8"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/rfade7"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/rfade6"
+        android:duration="125" />
+
+    <item
+        android:drawable="@drawable/rfade5"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/rfade4"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/rfade3"
+        android:duration="125" />
+    <item
+        android:drawable="@drawable/rfade2"
+        android:duration="125" />
+
+    <item
+        android:drawable="@drawable/rfade1"
+        android:duration="125" />
+
+</animation-list>
